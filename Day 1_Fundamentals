@@ -1,0 +1,12 @@
+Today I learned:
+*What is an LLM?
+*How LLM pipeline Works
+*Tokenization process
+*Embeddings representation
+*Transformer Architecture basics
+*Prediction concept
+*Sampling Strategies in LLM: 
+      - Greedy
+      - Temperature
+      - Top-k
+      - Top-p
